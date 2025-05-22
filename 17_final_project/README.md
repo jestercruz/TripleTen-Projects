@@ -1,7 +1,7 @@
-# Churn Prediction Model for "Good Seed" Supermarket Chain
+# Churn Prediction Model for Interconnect
 
 ## Project Overview
-This project aimed to develop a machine learning model to predict customer churn for the "Good Seed" supermarket chain. By leveraging customer data, the model identifies customers likely to churn, enabling targeted customer retention strategies.
+This project aimed to develop a machine learning model to predict customer churn for the telecom operator Interconnect. By leveraging customer data, the model identifies customers likely to churn, enabling targeted customer retention strategies.
 
 ## Objectives
 - To develop a predictive model that identifies customers at high risk of churn.
